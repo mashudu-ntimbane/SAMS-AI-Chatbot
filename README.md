@@ -22,6 +22,18 @@ An NLP chatbot built with DistilBERT and Flask that classifies student queries i
 - `visitor_policy` — guest registration, visiting hours
 - `application_status` — tracking, appeals, waiting lists
 - `general_enquiry` — greetings, general help
+  
+---
+
+# 🎓 SAMS AI Chatbot
+## Jarrelix Student Accomodation
+<img width="950" height="507" alt="Capture3" src="https://github.com/user-attachments/assets/ee854df4-b189-41c7-8b91-d0262cd2f5af" />
+
+## Initiating conversation with SAMS AI Chatbot
+<img width="477" height="580" alt="Capture" src="https://github.com/user-attachments/assets/122cbf69-948f-4997-9782-e88a93ae00aa" />
+
+## Resposes from SAMS AI Chatbot
+<img width="476" height="578" alt="Capture2" src="https://github.com/user-attachments/assets/4d5e1027-4d2a-4fe9-b2fb-2dd9b73ffe68" />
 
 ---
 
