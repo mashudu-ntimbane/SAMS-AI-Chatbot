@@ -24,6 +24,15 @@ An NLP chatbot built with DistilBERT and Flask that classifies student queries i
 - `general_enquiry` — greetings, general help
 
 ---
+## SAMS AI Chatbot
+# SAMS page
+<img width="950" height="507" alt="Capture3" src="https://github.com/user-attachments/assets/3508d7e2-1efa-4208-a33d-becbfe8c4311" />
+# User initiating conversation with SAMS AI Chatbot
+<img width="477" height="580" alt="Capture" src="https://github.com/user-attachments/assets/589bd22f-8ac6-4e5a-9e8e-9c845369f03f" />
+# SAMS AI Chatbot Responses
+<img width="476" height="578" alt="Capture2" src="https://github.com/user-attachments/assets/e65bfcb9-979c-4932-9bc6-47204de9de33" />
+
+---
 
 ## 🚀 Quick Start
 
