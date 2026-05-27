@@ -36,48 +36,6 @@ An NLP chatbot built with DistilBERT and Flask that classifies student queries i
 
 ---
 
-## 🚀 Quick Start
-
-### 1. Install dependencies
-```bash
-pip install transformers torch scikit-learn flask flask-cors accelerate seaborn
-```
-
-### 2. Train the model (Google Colab recommended)
-```bash
-# Upload to Colab and run
-python 01_dataset_and_training.py
-```
-
-### 3. Start the API server
-```bash
-python 02_api_server.py
-# API available at http://localhost:5000/chat
-```
-
-### 4. Test with curl
-```bash
-curl -X POST http://localhost:5000/chat \
-     -H "Content-Type: application/json" \
-     -d '{"message": "How do I pay my rent?"}'
-```
-
-Expected response:
-```json
-{
-  "success": true,
-  "intent": "payment_query",
-  "confidence": 0.9821,
-  "response": "Rent is due on the 1st of each month...",
-  "method": "keyword"
-}
-```
-
-### 5. PHP Integration
-Update `CHATBOT_API_URL` in `03_php_integration.php` and include the chat widget in any SAMS page.
-
----
-
 ## 🗂️ Project Structure
 
 ```
