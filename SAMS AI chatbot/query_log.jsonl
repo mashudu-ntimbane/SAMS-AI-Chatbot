@@ -1,0 +1,18 @@
+{"timestamp": "2026-04-06T00:49:40.181636", "raw_text": "hi", "clean_text": "hi", "intent": "general_enquiry", "confidence": 1.0, "method": "keyword"}
+{"timestamp": "2026-04-06T00:49:52.780032", "raw_text": "how are you doing", "clean_text": "how are you doing", "intent": "unknown", "confidence": 0.5017, "method": "fallback"}
+{"timestamp": "2026-04-06T00:50:03.563515", "raw_text": "rules", "clean_text": "rules", "intent": "rules_query", "confidence": 1.0, "method": "keyword"}
+{"timestamp": "2026-04-06T00:50:19.714371", "raw_text": "visitors", "clean_text": "visitors", "intent": "visitor_policy", "confidence": 1.0, "method": "keyword"}
+{"timestamp": "2026-04-06T00:51:26.647871", "raw_text": "payments", "clean_text": "payments", "intent": "payment_query", "confidence": 1.0, "method": "keyword"}
+{"timestamp": "2026-04-06T00:52:46.369344", "raw_text": "can i have the pictures of res", "clean_text": "can i have the pictures of res", "intent": "unknown", "confidence": 0.2554, "method": "fallback"}
+{"timestamp": "2026-04-06T00:52:57.566678", "raw_text": "application status", "clean_text": "application status", "intent": "application_status", "confidence": 1.0, "method": "keyword"}
+{"timestamp": "2026-04-25T21:05:31.652813", "raw_text": "hi", "clean_text": "hi", "intent": "general_enquiry", "confidence": 1.0, "method": "keyword"}
+{"timestamp": "2026-04-25T21:05:57.601907", "raw_text": "I want too check my status", "clean_text": "i want too check my status", "intent": "application_status", "confidence": 1.0, "method": "keyword"}
+{"timestamp": "2026-04-25T21:07:28.545086", "raw_text": "Is the residence NSFAS accredited or any bursary can be funded?", "clean_text": "is the residence nsfas accredited or any bursary can be funded", "intent": "unknown", "confidence": 0.2562, "method": "fallback"}
+{"timestamp": "2026-04-25T21:08:01.098498", "raw_text": "Visitors", "clean_text": "visitors", "intent": "visitor_policy", "confidence": 1.0, "method": "keyword"}
+{"timestamp": "2026-04-29T16:26:36.199078", "raw_text": "hi", "clean_text": "hi", "intent": "general_enquiry", "confidence": 1.0, "method": "keyword"}
+{"timestamp": "2026-04-29T16:28:06.913160", "raw_text": "hi", "clean_text": "hi", "intent": "general_enquiry", "confidence": 1.0, "method": "keyword"}
+{"timestamp": "2026-04-29T16:28:16.439508", "raw_text": "hi", "clean_text": "hi", "intent": "general_enquiry", "confidence": 1.0, "method": "keyword"}
+{"timestamp": "2026-04-29T16:28:22.930510", "raw_text": "Hi", "clean_text": "hi", "intent": "general_enquiry", "confidence": 1.0, "method": "keyword"}
+{"timestamp": "2026-04-29T16:30:09.031278", "raw_text": "i want to know about the rules", "clean_text": "i want to know about the rules", "intent": "rules_query", "confidence": 1.0, "method": "keyword"}
+{"timestamp": "2026-04-29T16:30:45.333542", "raw_text": "How about visitor's  rule", "clean_text": "how about visitors rule", "intent": "rules_query", "confidence": 1.0, "method": "keyword"}
+{"timestamp": "2026-04-29T16:31:12.066880", "raw_text": "Rules about visistors", "clean_text": "rules about visistors", "intent": "rules_query", "confidence": 1.0, "method": "keyword"}
