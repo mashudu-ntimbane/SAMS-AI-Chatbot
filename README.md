@@ -2,7 +2,7 @@
 
 > **AI-powered student query assistant for the Student Accommodation Management System (SAMS)**
 
-An NLP chatbot built with DistilBERT and Flask that classifies student queries into structured intents and returns contextual responses — integrated with a PHP backend via REST API.
+An NLP chatbot built with DistilBERT and Flask that classifies student queries into structured intents and returns contextual responses  integrated with a PHP backend via REST API.
 
 ---
 
