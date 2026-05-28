@@ -1,4 +1,4 @@
-# 🎓 SAMS AI Chatbot
+# 🎓 Student Accommodation Management System (SAMS) AI Chatbot
 
 > **AI-powered student query assistant for the Student Accommodation Management System (SAMS)**
 
